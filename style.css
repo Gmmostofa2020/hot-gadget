@@ -1,0 +1,38 @@
+.container{
+    margin-bottom: 100px;}
+.buy-now-button{
+background-image: linear-gradient(to bottom,#14030a 0%,#160109);
+color:#fff;
+border: none;
+border-radius: 8px;
+padding: 9px 25px;
+}
+#categories{
+    text-align: center;
+}
+img{
+    margin:right 10px;
+    padding:right 20px;
+}
+.copyright{
+    background-color: rgb(34, 221, 75);
+    color: teal;
+}
+p,h5{
+    color: rgb(10, 8, 8);   
+}
+.price{
+    color: rgb(0, 60, 255);
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: rgb(229, 182, 182);
+    border-top: none;
+}
+.card-title{
+    color: rgb(224, 26, 198);
+}
